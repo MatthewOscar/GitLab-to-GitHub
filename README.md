@@ -1,3 +1,9 @@
+#G GitLab to GitHub Mirror
+
+The project on GitHub is a mirror of this project on GitLab.
+
+This means that changes I make from GitLab will be pulled to the GitHub repo soon after.
+
 # Gitlab component template
 
 <!--
