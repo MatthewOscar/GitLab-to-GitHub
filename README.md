@@ -1,4 +1,4 @@
-#G GitLab to GitHub Mirror
+# GitLab to GitHub Mirror
 
 The project on GitHub is a mirror of this project on GitLab.
 
