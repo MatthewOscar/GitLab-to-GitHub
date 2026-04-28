@@ -4,7 +4,8 @@ The project on GitHub is a mirror of this project on GitLab.
 
 This means that changes I make from GitLab will be pulled to the GitHub repo soon after.
 
-GitLab Link: https://gitlab.com/MatthewOscar/gitlab-to-github
+GitLab Link: https://gitlab.com/MatthewOscar/gitlab-to-github 
+
 GitHub Link: https://github.com/MatthewOscar/GitLab-to-GitHub
 
 # Gitlab component template
